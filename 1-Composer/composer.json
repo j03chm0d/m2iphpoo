@@ -1,0 +1,16 @@
+{
+    "name": "igor/igor",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Igor\\Igor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Dubois",
+            "email": "igorduboispro@gmail.com"
+        }
+    ],
+    "require": {}
+}
